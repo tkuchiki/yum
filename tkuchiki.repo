@@ -1,0 +1,6 @@
+[repos.tkuchiki-el6]
+name=el6 yum repository
+baseurl=https://tkuchiki.github.io/yum/el6/
+enabled=1
+gpgcheck=0
+
