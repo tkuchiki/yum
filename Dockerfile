@@ -1,3 +1,3 @@
 FROM amazonlinux:latest
 
-RUN yum install -y createrepo
+RUN yum install -y createrepo findutils

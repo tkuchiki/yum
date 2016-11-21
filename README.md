@@ -3,12 +3,14 @@ My yum repository
 
 ## Setup
 
+Run `docker build`.
+
 ```
 $ make build
 ```
 
-## createrepo
+## Run createrepo
 
 ```
-$ make createrepo
+$ make
 ```
